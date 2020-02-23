@@ -89,6 +89,6 @@ n(A ∪ B) = n(A) + n(B) - n(A ∩ B)。
 
 ### 推论1.6
 
-如果A，B，C均为有限集，则A ∪ B ∪ C均为有限集，且
+如果A，B，C均为有限集，则A ∪ B ∪ C均为有限集，且dfdfa
 
 n(A ∪ B ∪ B) = n(A) + n(B) + n(C) - n(A ∩ B) - n(A ∩ C) - n(B ∩ C) + n(A ∩ B ∩ C)。
